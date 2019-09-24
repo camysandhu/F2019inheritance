@@ -19,7 +19,7 @@ public class MainExample
         p1=s1;
         p1.display();
 
-        Faculity f1= new Faculity(1,"Camy","Sandhu",LocalDate.now(),"Male","Software Engineer",1000,"Mobile Software Development");
+        //Faculity f1= new Faculity(1,"Camy","Sandhu",LocalDate.now(),"Male","Software Engineer",1000,"Mobile Software Development");
 
 
         }
